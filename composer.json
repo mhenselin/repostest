@@ -1,7 +1,7 @@
 {
     "packages": {
         "mhenselin/test1": {
-            "dev-master": { @composer.json }
+            "master": { @composer.json }
         }
     }
 }
